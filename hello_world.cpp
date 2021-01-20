@@ -2,5 +2,5 @@
  
 int main()
 {
-    std::cout << "asdfasdf";
+    std::cout << "asdfasdf" << std::endl;
 }
